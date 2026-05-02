@@ -8,6 +8,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0605-can-place-flowers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@ My daily journey of coding.
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
