@@ -15,6 +15,7 @@ My daily journey of coding.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Linked List
@@ -49,4 +51,5 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
