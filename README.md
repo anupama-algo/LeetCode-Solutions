@@ -34,6 +34,7 @@ My daily journey of coding.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -57,6 +58,7 @@ My daily journey of coding.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
@@ -81,4 +83,8 @@ My daily journey of coding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
