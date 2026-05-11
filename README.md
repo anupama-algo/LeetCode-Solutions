@@ -12,6 +12,7 @@ My daily journey of coding.
 | [0169-majority-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0605-can-place-flowers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
