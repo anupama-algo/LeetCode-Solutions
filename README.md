@@ -21,6 +21,7 @@ My Coding Journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -32,6 +33,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
