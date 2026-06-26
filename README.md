@@ -54,6 +54,7 @@ My Coding Journey
 | [0015-3sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
@@ -65,6 +66,7 @@ My Coding Journey
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -123,4 +125,8 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
