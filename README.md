@@ -39,6 +39,7 @@ My Coding Journey
 | [0009-palindrome-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
