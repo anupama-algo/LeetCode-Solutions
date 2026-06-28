@@ -14,6 +14,7 @@ My Coding Journey
 | [0027-remove-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -39,6 +40,7 @@ My Coding Journey
 | [0009-palindrome-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
