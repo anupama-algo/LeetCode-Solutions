@@ -15,6 +15,7 @@ My Coding Journey
 | [0035-search-insert-position](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
