@@ -142,6 +142,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ My Coding Journey
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
@@ -185,10 +187,15 @@ My Coding Journey
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
