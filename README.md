@@ -86,6 +86,7 @@ My Coding Journey
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -144,6 +145,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
