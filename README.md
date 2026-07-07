@@ -47,6 +47,7 @@ My Coding Journey
 | [0009-palindrome-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
@@ -176,6 +177,7 @@ My Coding Journey
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
