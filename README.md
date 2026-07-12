@@ -16,6 +16,7 @@ My Coding Journey
 | [0035-search-insert-position](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -227,6 +228,7 @@ My Coding Journey
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
