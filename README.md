@@ -26,6 +26,7 @@ My Coding Journey
 | [0088-merge-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -120,6 +121,7 @@ My Coding Journey
 | [0096-unique-binary-search-trees](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Binary Search
