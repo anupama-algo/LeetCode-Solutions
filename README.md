@@ -221,6 +221,7 @@ My Coding Journey
 | [0100-same-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ My Coding Journey
 | [0100-same-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@ My Coding Journey
 | [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +254,7 @@ My Coding Journey
 | [0100-same-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
