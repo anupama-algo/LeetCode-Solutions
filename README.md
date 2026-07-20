@@ -23,6 +23,7 @@ My Coding Journey
 | [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -109,6 +110,7 @@ My Coding Journey
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -246,11 +248,13 @@ My Coding Journey
 | [0040-combination-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
@@ -262,4 +266,8 @@ My Coding Journey
 | [0100-same-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
