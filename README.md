@@ -146,6 +146,7 @@ My Coding Journey
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ My Coding Journey
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
