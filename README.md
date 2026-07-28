@@ -22,6 +22,7 @@ My Coding Journey
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
@@ -129,6 +130,7 @@ My Coding Journey
 | [0005-longest-palindromic-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -286,6 +288,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
