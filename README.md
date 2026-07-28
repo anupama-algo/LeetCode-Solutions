@@ -63,6 +63,7 @@ My Coding Journey
 | [0043-multiply-strings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
@@ -127,6 +128,7 @@ My Coding Journey
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -285,4 +287,8 @@ My Coding Journey
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
