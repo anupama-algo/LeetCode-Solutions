@@ -20,6 +20,7 @@ My Coding Journey
 | [0047-permutations-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -134,6 +135,7 @@ My Coding Journey
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -181,6 +183,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
