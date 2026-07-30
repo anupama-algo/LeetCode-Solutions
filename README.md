@@ -56,6 +56,7 @@ My Coding Journey
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
@@ -207,6 +208,7 @@ My Coding Journey
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -216,6 +218,7 @@ My Coding Journey
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Bit Manipulation
