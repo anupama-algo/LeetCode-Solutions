@@ -45,6 +45,7 @@ My Coding Journey
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1470-shuffle-the-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -222,6 +223,7 @@ My Coding Journey
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
