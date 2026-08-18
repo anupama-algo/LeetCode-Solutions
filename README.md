@@ -39,6 +39,7 @@ My Coding Journey
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -87,6 +88,7 @@ My Coding Journey
 | [0069-sqrtx](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -237,6 +239,7 @@ My Coding Journey
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
