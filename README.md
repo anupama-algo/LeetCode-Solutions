@@ -417,4 +417,8 @@ My Coding Journey
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
