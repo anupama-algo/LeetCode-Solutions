@@ -46,6 +46,7 @@ My Coding Journey
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -109,6 +110,7 @@ My Coding Journey
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ My Coding Journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +231,7 @@ My Coding Journey
 | [0045-jump-game-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
