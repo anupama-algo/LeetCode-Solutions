@@ -43,6 +43,7 @@ My Coding Journey
 | [0150-evaluate-reverse-polish-notation](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -254,6 +255,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +425,7 @@ My Coding Journey
 | [0129-sum-root-to-leaf-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -440,6 +443,7 @@ My Coding Journey
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -449,6 +453,7 @@ My Coding Journey
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
