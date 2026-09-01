@@ -257,6 +257,7 @@ My Coding Journey
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +436,7 @@ My Coding Journey
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +451,7 @@ My Coding Journey
 | [0662-maximum-width-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,4 +547,8 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
