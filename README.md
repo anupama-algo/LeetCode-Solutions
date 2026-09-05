@@ -28,6 +28,7 @@ My Coding Journey
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -336,6 +337,7 @@ My Coding Journey
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
@@ -424,6 +426,7 @@ My Coding Journey
 | [0040-combination-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
