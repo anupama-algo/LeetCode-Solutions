@@ -1,12 +1,10 @@
-import java.util.*;
-
 class Solution {
     private int preorderIndex = 0;
-    private Map<Integer, Integer> inorderMap = new HashMap<>();
+    private Map<Integer, Integer> map = new HashMap<>();
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         for (int i = 0; i < inorder.length; i++) {
-            inorderMap.put(inorder[i], i);
+            map.put(inorder[i], i);
         }
 
         return build(preorder, 0, inorder.length - 1);
@@ -20,7 +18,7 @@ class Solution {
         int value = preorder[preorderIndex++];
         TreeNode root = new TreeNode(value);
 
-        int mid = inorderMap.get(value);
+        int mid = map.get(value);
 
         root.left = build(preorder, left, mid - 1);
         root.right = build(preorder, mid + 1, right);
