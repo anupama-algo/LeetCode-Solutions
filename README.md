@@ -181,6 +181,7 @@ My Coding Journey
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -380,6 +381,7 @@ My Coding Journey
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -417,6 +419,7 @@ My Coding Journey
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -440,6 +443,7 @@ My Coding Journey
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -463,6 +467,7 @@ My Coding Journey
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
