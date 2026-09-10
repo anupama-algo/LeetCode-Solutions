@@ -207,6 +207,7 @@ My Coding Journey
 | [0120-triangle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -374,6 +375,7 @@ My Coding Journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -415,6 +417,7 @@ My Coding Journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -461,6 +464,7 @@ My Coding Journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -602,6 +606,7 @@ My Coding Journey
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
