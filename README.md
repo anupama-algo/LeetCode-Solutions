@@ -48,6 +48,7 @@ My Coding Journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -183,6 +184,7 @@ My Coding Journey
 | [0171-excel-sheet-column-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -312,6 +314,7 @@ My Coding Journey
 | [0014-longest-common-prefix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +461,7 @@ My Coding Journey
 | [0095-unique-binary-search-trees-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
@@ -532,6 +536,7 @@ My Coding Journey
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
