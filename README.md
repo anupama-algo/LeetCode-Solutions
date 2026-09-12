@@ -131,6 +131,7 @@ My Coding Journey
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -158,6 +159,7 @@ My Coding Journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -242,6 +244,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -592,6 +595,7 @@ My Coding Journey
 | [0211-design-add-and-search-words-data-structure](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -606,6 +610,7 @@ My Coding Journey
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
