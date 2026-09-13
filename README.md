@@ -99,6 +99,7 @@ My Coding Journey
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ My Coding Journey
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -200,6 +202,7 @@ My Coding Journey
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@ My Coding Journey
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -268,6 +272,7 @@ My Coding Journey
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +293,7 @@ My Coding Journey
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
