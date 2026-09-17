@@ -91,6 +91,7 @@ My Coding Journey
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
@@ -207,6 +208,7 @@ My Coding Journey
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -343,6 +345,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
