@@ -62,6 +62,7 @@ My Coding Journey
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -108,6 +109,7 @@ My Coding Journey
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -316,6 +318,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Greedy
