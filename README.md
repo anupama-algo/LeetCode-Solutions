@@ -80,6 +80,7 @@ My Coding Journey
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0881-boats-to-save-people](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -127,6 +128,7 @@ My Coding Journey
 | [0763-partition-labels](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -336,6 +338,7 @@ My Coding Journey
 | [0525-contiguous-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Greedy
@@ -375,6 +378,7 @@ My Coding Journey
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
