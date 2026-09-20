@@ -61,6 +61,7 @@ My Coding Journey
 | [0380-insert-delete-getrandom-o1](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0454-4sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -114,6 +115,7 @@ My Coding Journey
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0454-4sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
