@@ -81,6 +81,7 @@ My Coding Journey
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -288,6 +289,7 @@ My Coding Journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Divide and Conquer
