@@ -94,6 +94,7 @@ My Coding Journey
 | [1046-last-stone-weight](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -295,6 +296,7 @@ My Coding Journey
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
