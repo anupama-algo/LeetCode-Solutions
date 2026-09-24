@@ -60,6 +60,7 @@ My Coding Journey
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -295,6 +296,7 @@ My Coding Journey
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -312,6 +314,7 @@ My Coding Journey
 | [0169-majority-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -648,6 +651,7 @@ My Coding Journey
 | [0079-word-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
