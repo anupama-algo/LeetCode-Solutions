@@ -101,6 +101,7 @@ My Coding Journey
 | [1470-shuffle-the-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -194,6 +195,7 @@ My Coding Journey
 | [0881-boats-to-save-people](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ My Coding Journey
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Divide and Conquer
