@@ -262,6 +262,7 @@ My Coding Journey
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -388,6 +389,7 @@ My Coding Journey
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
@@ -433,6 +435,7 @@ My Coding Journey
 | [0225-implement-stack-using-queues](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -731,6 +734,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
