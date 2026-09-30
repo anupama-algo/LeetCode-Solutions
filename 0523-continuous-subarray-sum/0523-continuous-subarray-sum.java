@@ -1,16 +1,13 @@
-import java.util.*;
-
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         map.put(0, -1);
 
-        int prefixSum = 0;
+        int sum = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            prefixSum += nums[i];
-
-            int remainder = prefixSum % k;
+            sum += nums[i];
+            int remainder = sum % k;
 
             if (map.containsKey(remainder)) {
                 if (i - map.get(remainder) >= 2) {
