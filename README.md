@@ -72,6 +72,7 @@ My Coding Journey
 | [0406-queue-reconstruction-by-height](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0454-4sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
@@ -140,6 +141,7 @@ My Coding Journey
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0454-4sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -198,6 +200,7 @@ My Coding Journey
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
