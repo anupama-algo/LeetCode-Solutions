@@ -21,6 +21,7 @@ My Coding Journey
 | [0037-sudoku-solver](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
@@ -122,6 +123,7 @@ My Coding Journey
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
