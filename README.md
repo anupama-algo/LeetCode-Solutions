@@ -66,6 +66,7 @@ My Coding Journey
 | [0239-sliding-window-maximum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -231,6 +232,7 @@ My Coding Journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -320,6 +322,7 @@ My Coding Journey
 | [0162-find-peak-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -514,6 +517,7 @@ My Coding Journey
 | [0136-single-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -745,6 +749,7 @@ My Coding Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -891,6 +896,7 @@ My Coding Journey
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
