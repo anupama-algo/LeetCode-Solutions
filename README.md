@@ -70,6 +70,7 @@ My Coding Journey
 | [0268-missing-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -447,6 +448,7 @@ My Coding Journey
 | [0135-candy](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -966,4 +968,8 @@ My Coding Journey
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
