@@ -92,6 +92,7 @@ My Coding Journey
 | [0630-course-schedule-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0665-non-decreasing-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
