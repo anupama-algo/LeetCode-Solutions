@@ -70,6 +70,7 @@ My Coding Journey
 | [0268-missing-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0321-create-maximum-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -262,6 +263,7 @@ My Coding Journey
 | [0283-move-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0321-create-maximum-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -453,6 +455,7 @@ My Coding Journey
 | [0135-candy](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -508,6 +511,7 @@ My Coding Journey
 | [0232-implement-queue-using-stacks](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -815,6 +819,7 @@ My Coding Journey
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0321-create-maximum-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
