@@ -83,7 +83,7 @@ My Coding Journey
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
-| [0485-max-consecutive-ones](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0485-max-consecutive-ones](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
