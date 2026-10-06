@@ -1,4 +1,3 @@
-
 class Solution {
     public int maxProfit(int[] prices) {
         int minPrice = prices[0];
@@ -8,11 +7,7 @@ class Solution {
             if (prices[i] < minPrice) {
                 minPrice = prices[i];
             } else {
-                int profit = prices[i] - minPrice;
-
-                if (profit > maxProfit) {
-                    maxProfit = profit;
-                }
+                maxProfit = Math.max(maxProfit, prices[i] - minPrice);
             }
         }
 
