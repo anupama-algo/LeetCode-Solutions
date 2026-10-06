@@ -315,7 +315,7 @@ My Coding Journey
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -344,7 +344,7 @@ My Coding Journey
 | [0376-wiggle-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -470,7 +470,7 @@ My Coding Journey
 | [0502-ipo](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
-| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -522,7 +522,7 @@ My Coding Journey
 | [0402-remove-k-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -780,7 +780,7 @@ My Coding Journey
 | ------- |
 | [0020-valid-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
-| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Z Algorithm
 |  |
 | ------- |
