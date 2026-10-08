@@ -1,4 +1,4 @@
-import java.util.HashMap;
+import java.util.*;
 
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
@@ -6,16 +6,18 @@ class Solution {
         map.put(0, 1);
 
         int sum = 0;
-        int answer = 0;
+        int count = 0;
 
         for (int num : nums) {
             sum += num;
 
-            answer += map.getOrDefault(sum - goal, 0);
+            if (map.containsKey(sum - goal)) {
+                count += map.get(sum - goal);
+            }
 
             map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
 
-        return answer;
+        return count;
     }
 }
