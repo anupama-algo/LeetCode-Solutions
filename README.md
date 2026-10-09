@@ -117,7 +117,7 @@ My Coding Journey
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -185,7 +185,7 @@ My Coding Journey
 | [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
-| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Math
 |  |
@@ -447,7 +447,7 @@ My Coding Journey
 | [0387-first-unique-character-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Quickselect
 |  |
 | ------- |
@@ -522,7 +522,7 @@ My Coding Journey
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
-| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
