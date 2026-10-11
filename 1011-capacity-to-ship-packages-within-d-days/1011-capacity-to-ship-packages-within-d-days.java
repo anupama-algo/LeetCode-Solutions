@@ -1,3 +1,4 @@
+
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int left = 0;
@@ -10,20 +11,19 @@ class Solution {
 
         while (left < right) {
             int mid = left + (right - left) / 2;
-
-            int requiredDays = 1;
+            int neededDays = 1;
             int currentWeight = 0;
 
             for (int weight : weights) {
                 if (currentWeight + weight > mid) {
-                    requiredDays++;
+                    neededDays++;
                     currentWeight = 0;
                 }
 
                 currentWeight += weight;
             }
 
-            if (requiredDays <= days) {
+            if (neededDays <= days) {
                 right = mid;
             } else {
                 left = mid + 1;
