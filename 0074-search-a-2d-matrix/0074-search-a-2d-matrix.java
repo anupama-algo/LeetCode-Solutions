@@ -8,7 +8,6 @@ class Solution {
 
         while (left <= right) {
             int mid = left + (right - left) / 2;
-
             int value = matrix[mid / cols][mid % cols];
 
             if (value == target) {
