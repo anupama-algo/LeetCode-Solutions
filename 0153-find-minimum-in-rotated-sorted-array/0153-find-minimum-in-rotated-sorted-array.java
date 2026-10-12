@@ -1,3 +1,4 @@
+
 class Solution {
     public int findMin(int[] nums) {
         int left = 0;
