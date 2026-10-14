@@ -107,6 +107,7 @@ My Coding Journey
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -402,6 +403,7 @@ My Coding Journey
 | [0540-single-element-in-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
