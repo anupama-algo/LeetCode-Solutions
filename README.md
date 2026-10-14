@@ -217,6 +217,7 @@ My Coding Journey
 | [0189-rotate-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -395,6 +396,7 @@ My Coding Journey
 | [0278-first-bad-version](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
