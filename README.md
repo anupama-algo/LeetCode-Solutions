@@ -392,6 +392,7 @@ My Coding Journey
 | [0209-minimum-size-subarray-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -1042,6 +1043,7 @@ My Coding Journey
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Sweep Line
 |  |
