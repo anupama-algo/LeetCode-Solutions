@@ -129,7 +129,7 @@ My Coding Journey
 | [1095-find-in-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1470-shuffle-the-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -230,7 +230,7 @@ My Coding Journey
 | [0667-beautiful-arrangement-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Sorting
