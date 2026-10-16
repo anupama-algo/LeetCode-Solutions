@@ -146,6 +146,7 @@ My Coding Journey
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1720-decode-xored-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
@@ -868,6 +869,7 @@ My Coding Journey
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Combinatorics
