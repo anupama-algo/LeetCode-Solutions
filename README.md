@@ -161,6 +161,7 @@ My Coding Journey
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Hash Table
@@ -394,6 +395,7 @@ My Coding Journey
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1816-truncate-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
