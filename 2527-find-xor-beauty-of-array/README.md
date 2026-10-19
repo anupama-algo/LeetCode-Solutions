@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-xor-beauty-of-array">2527. Find Xor-Beauty of Array</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-xor-beauty-of-array">2621. Find Xor-Beauty of Array</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
 
 <p>The <strong>effective value</strong> of three indices <code>i</code>, <code>j</code>, and <code>k</code> is defined as <code>((nums[i] | nums[j]) &amp; nums[k])</code>.</p>
 
