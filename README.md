@@ -132,6 +132,7 @@ My Coding Journey
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -222,6 +223,7 @@ My Coding Journey
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
