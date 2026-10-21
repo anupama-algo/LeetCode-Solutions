@@ -108,6 +108,7 @@ My Coding Journey
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0741-cherry-pickup](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -437,6 +438,7 @@ My Coding Journey
 | [0435-non-overlapping-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0741-cherry-pickup](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -913,6 +915,7 @@ My Coding Journey
 | [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0741-cherry-pickup](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
