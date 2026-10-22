@@ -354,6 +354,7 @@ My Coding Journey
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String
 |  |
@@ -408,6 +409,7 @@ My Coding Journey
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
