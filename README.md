@@ -133,6 +133,7 @@ My Coding Journey
 | [0986-interval-list-intersections](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1002-find-common-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -238,6 +239,7 @@ My Coding Journey
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1002-find-common-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -430,6 +432,7 @@ My Coding Journey
 | [0763-partition-labels](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1002-find-common-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
