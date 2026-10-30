@@ -375,6 +375,7 @@ My Coding Journey
 | [0977-squares-of-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String
@@ -433,6 +434,7 @@ My Coding Journey
 | [0767-reorganize-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -699,6 +701,7 @@ My Coding Journey
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Linked List
 |  |
 | ------- |
