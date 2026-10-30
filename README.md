@@ -182,6 +182,7 @@ My Coding Journey
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 |  |
@@ -247,6 +248,7 @@ My Coding Journey
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 |  |
@@ -765,6 +767,7 @@ My Coding Journey
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2429-minimize-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2429-minimize-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
