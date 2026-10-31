@@ -101,6 +101,7 @@ My Coding Journey
 | [0540-single-element-in-a-sorted-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -779,6 +780,7 @@ My Coding Journey
 | ------- |
 | [0043-multiply-strings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -967,6 +969,7 @@ My Coding Journey
 | [0212-word-search-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
