@@ -29,6 +29,7 @@ My Coding Journey
 | [0049-group-anagrams](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -780,6 +781,7 @@ My Coding Journey
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -963,6 +965,7 @@ My Coding Journey
 | [0036-valid-sudoku](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
