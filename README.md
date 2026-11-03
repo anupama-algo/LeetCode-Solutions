@@ -172,6 +172,7 @@ My Coding Journey
 | [1584-min-cost-to-connect-all-points](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -255,6 +256,7 @@ My Coding Journey
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -531,6 +533,7 @@ My Coding Journey
 | [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Divide and Conquer
@@ -612,6 +615,7 @@ My Coding Journey
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 ## Greedy
@@ -680,6 +684,7 @@ My Coding Journey
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Stack
 |  |
