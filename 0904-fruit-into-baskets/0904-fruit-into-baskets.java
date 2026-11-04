@@ -1,28 +1,32 @@
+
+import java.util.*;
+
 class Solution {
     public int totalFruit(int[] fruits) {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         int left = 0;
-        int answer = 0;
+        int maxLen = 0;
 
         for (int right = 0; right < fruits.length; right++) {
-            map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
+            map.put(fruits[right],
+                map.getOrDefault(fruits[right], 0) + 1);
 
             while (map.size() > 2) {
-                int fruit = fruits[left];
+                int num = fruits[left];
 
-                map.put(fruit, map.get(fruit) - 1);
+                map.put(num, map.get(num) - 1);
 
-                if (map.get(fruit) == 0) {
-                    map.remove(fruit);
+                if (map.get(num) == 0) {
+                    map.remove(num);
                 }
 
                 left++;
             }
 
-            answer = Math.max(answer, right - left + 1);
+            maxLen = Math.max(maxLen, right - left + 1);
         }
 
-        return answer;
+        return maxLen;
     }
 }
