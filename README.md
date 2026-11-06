@@ -195,6 +195,7 @@ My Coding Journey
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 |  |
@@ -263,6 +264,7 @@ My Coding Journey
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 |  |
@@ -597,6 +599,7 @@ My Coding Journey
 | [0992-subarrays-with-k-different-integers](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Quickselect
 |  |
@@ -657,6 +660,7 @@ My Coding Journey
 | [0881-boats-to-save-people](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [2429-minimize-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2429-minimize-xor) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Union-Find
 |  |
 | ------- |
