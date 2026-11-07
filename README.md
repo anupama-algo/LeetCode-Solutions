@@ -185,6 +185,7 @@ My Coding Journey
 | [1822-sign-of-the-product-of-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -661,6 +662,7 @@ My Coding Journey
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0881-boats-to-save-people](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2429-minimize-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2429-minimize-xor) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Union-Find
