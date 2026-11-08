@@ -195,6 +195,7 @@ My Coding Journey
 | [2090-k-radius-subarray-averages](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
@@ -407,6 +408,7 @@ My Coding Journey
 | [1768-merge-strings-alternately](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -832,6 +834,7 @@ My Coding Journey
 | [1929-concatenation-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Memoization
 |  |
 | ------- |
