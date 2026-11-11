@@ -185,6 +185,7 @@ My Coding Journey
 | [1732-find-the-highest-altitude](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -315,6 +316,7 @@ My Coding Journey
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 ## Sorting
@@ -793,6 +795,7 @@ My Coding Journey
 | [0234-palindrome-linked-list](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -840,6 +843,7 @@ My Coding Journey
 | [0867-transpose-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -1086,6 +1090,7 @@ My Coding Journey
 | [0918-maximum-sum-circular-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
