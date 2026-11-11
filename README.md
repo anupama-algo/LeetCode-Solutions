@@ -169,6 +169,7 @@ My Coding Journey
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -316,6 +317,7 @@ My Coding Journey
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -523,6 +525,7 @@ My Coding Journey
 | [0918-maximum-sum-circular-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -647,6 +650,7 @@ My Coding Journey
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
