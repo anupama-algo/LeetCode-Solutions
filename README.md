@@ -181,6 +181,7 @@ My Coding Journey
 | [1670-design-front-middle-back-queue](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -270,6 +271,7 @@ My Coding Journey
 | [1657-determine-if-two-strings-are-close](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -720,6 +722,7 @@ My Coding Journey
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Stack
 |  |
