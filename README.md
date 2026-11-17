@@ -135,6 +135,7 @@ My Coding Journey
 | [0907-sum-of-subarray-minimums](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -532,6 +533,7 @@ My Coding Journey
 | [0871-minimum-number-of-refueling-stops](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1064,6 +1066,7 @@ My Coding Journey
 | [0741-cherry-pickup](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
