@@ -156,6 +156,7 @@ My Coding Journey
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -661,6 +662,7 @@ My Coding Journey
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -845,6 +847,7 @@ My Coding Journey
 | [0389-find-the-difference](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
