@@ -407,6 +407,7 @@ My Coding Journey
 | [0345-reverse-vowels-of-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -477,6 +478,7 @@ My Coding Journey
 | [0409-longest-palindrome](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/anupama-algo/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anupama-algo/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
